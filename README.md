@@ -1,4 +1,4 @@
-# OS_Project_3
+# Semaphore implementation
 
 the shell script make_makenumbers.sh will create a list of numbers to be read by the main program 
 
